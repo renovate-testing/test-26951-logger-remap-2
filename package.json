@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "pino": "8.17.0"
+    "pino": "8.18.0"
   }
 }
