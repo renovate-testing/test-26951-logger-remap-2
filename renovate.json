@@ -1,0 +1,8 @@
+{
+  "logLevelRemap": [
+    {
+      "matchMessage": "*issue*",
+      "newLogLevel": "info"
+    }
+  ]
+}
