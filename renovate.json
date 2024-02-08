@@ -1,8 +1,10 @@
 {
+  "npm": {
   "logLevelRemap": [
     {
       "matchMessage": "*branch*",
       "newLogLevel": "info"
     }
   ]
+  }
 }
